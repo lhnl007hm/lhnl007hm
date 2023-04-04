@@ -26,4 +26,4 @@
 </div>
 
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
