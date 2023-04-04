@@ -21,8 +21,8 @@
 
 <div>
 <a href="https://github.com/lhnl007hm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=vision-friendly-dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=midnight-purple"/>
 </div>
 
 
@@ -34,8 +34,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=vision-friendly-dark)](https://github.com/lhnl007hm/exercicios-ebac)
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=midnight-purple)](https://github.com/lhnl007hm/Tik-Tok-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique)](https://github.com/lhnl007hm/projeto-mqtt-Luiz-Henrique)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp)](https://github.com/lhnl007hm/projeto-redes-ospf-bgp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac)](https://github.com/lhnl007hm/exercicios-ebac)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique&theme=midnight-purple)](https://github.com/lhnl007hm/projeto-mqtt-Luiz-Henrique)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&theme=midnight-purple)](https://github.com/lhnl007hm/projeto-redes-ospf-bgp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=midnight-purple)](https://github.com/lhnl007hm/exercicios-ebac)
 
 
