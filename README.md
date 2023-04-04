@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/lhnl007hm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-## **My Github**
+## **My GitHub**
 
 <div>
 <a href="https://github.com/lhnl007hm">
