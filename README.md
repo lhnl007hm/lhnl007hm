@@ -23,5 +23,7 @@
 <a href="https://github.com/lhnl007hm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=dark"/>
 </div>
+
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project)](https://github.com/anuraghazra/github-readme-stats)
