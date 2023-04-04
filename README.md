@@ -27,7 +27,7 @@
 
 ## **My Projects**
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
