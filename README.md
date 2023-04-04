@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi, welcome to my github, come in and come meet me
 
-<!--
-**lhnl007hm/lhnl007hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me:
 
-Here are some ideas to get you started:
+  - 25 years old
+  - Systems Analysis and Development student at FATEC-SP
+  - I'm from São Paulo - SP
+  - I'm single
+  - I have a Guinea Pig and a Shitzu
+  - I like games and nerdy things
+  - I want to specialize and work with QA
+  
+## **Social Media**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://instagram.com/_krazeman" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/lhnl007hm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
+## **My Github**
+
+<div>
+<a href="https://github.com/lhnl007hm">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=dracula"/>
+</div>
