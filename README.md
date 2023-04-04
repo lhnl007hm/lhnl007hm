@@ -33,7 +33,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&theme=vision-friendly-dark)](https://github.com/lhnl007hm/projeto-redes-ospf-bgp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=vision-friendly-dark)](https://github.com/lhnl007hm/exercicios-ebac)
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project)](https://github.com/lhnl007hm/Tik-Tok-Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=midnight-purple)](https://github.com/lhnl007hm/Tik-Tok-Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique)](https://github.com/lhnl007hm/projeto-mqtt-Luiz-Henrique)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp)](https://github.com/lhnl007hm/projeto-redes-ospf-bgp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac)](https://github.com/lhnl007hm/exercicios-ebac)
