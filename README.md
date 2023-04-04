@@ -33,7 +33,3 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&theme=vision-friendly-dark)](https://github.com/lhnl007hm/projeto-redes-ospf-bgp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=vision-friendly-dark)](https://github.com/lhnl007hm/exercicios-ebac)
 
-<a href="https://github.com/lhnl007hm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&&theme=vision-friendly-dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique&theme=vision-friendly-dark"/>
-
