@@ -21,7 +21,7 @@
 
 <div>
 <a href="https://github.com/lhnl007hm">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhnl007hm&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhnl007hm&show_icons=true&theme=dracula"/>
 </div>
 
