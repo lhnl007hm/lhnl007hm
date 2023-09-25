@@ -2,7 +2,7 @@
 
 ## About me:
 
-  - 25 years old
+  - 26 years old
   - Systems Analysis and Development student at FATEC-SP
   - I'm from São Paulo - SP
   - I'm single
