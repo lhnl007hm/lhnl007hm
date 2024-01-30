@@ -3,7 +3,7 @@
 ## About me:
 
   - 26 years old
-  - Systems Analysis and Development student at FATEC-SP
+  - Graduated in Systems Analysis and Development from FATEC-SP
   - I'm from São Paulo - SP
   - I'm single
   - I have a Guinea Pig and a Shitzu
