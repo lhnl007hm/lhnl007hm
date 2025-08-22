@@ -28,9 +28,9 @@
 
 ## **My Projects**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=Tik-Tok-Project&theme=midnight-purple)](https://github.com/lhnl007hm/chatbot_saude)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-mqtt-Luiz-Henrique&theme=midnight-purple)](https://github.com/lhnl007hm/bazar_solidario)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=projeto-redes-ospf-bgp&theme=midnight-purple)](https://github.com/lhnl007hm/project_ds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=exercicios-ebac&theme=midnight-purple)](https://github.com/lhnl007hm/diadasmaes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=chatbot_saude&theme=midnight-purple)](https://github.com/lhnl007hm/chatbot_saude)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=bazar_solitario&theme=midnight-purple)](https://github.com/lhnl007hm/bazar_solidario)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=project_ds&theme=midnight-purple)](https://github.com/lhnl007hm/project_ds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lhnl007hm&repo=diadasmaes&theme=midnight-purple)](https://github.com/lhnl007hm/diadasmaes)
 
 
